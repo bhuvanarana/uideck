@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/uideck/static/css/main.7dc3c5b5.chunk.css",
+    "main.js": "/uideck/static/js/main.560f3ea2.chunk.js",
+    "main.js.map": "/uideck/static/js/main.560f3ea2.chunk.js.map",
+    "runtime-main.js": "/uideck/static/js/runtime-main.152d7243.js",
+    "runtime-main.js.map": "/uideck/static/js/runtime-main.152d7243.js.map",
+    "static/js/2.f7d3cb28.chunk.js": "/uideck/static/js/2.f7d3cb28.chunk.js",
+    "static/js/2.f7d3cb28.chunk.js.map": "/uideck/static/js/2.f7d3cb28.chunk.js.map",
+    "static/js/3.4665e455.chunk.js": "/uideck/static/js/3.4665e455.chunk.js",
+    "static/js/3.4665e455.chunk.js.map": "/uideck/static/js/3.4665e455.chunk.js.map",
+    "index.html": "/uideck/index.html",
+    "static/css/main.7dc3c5b5.chunk.css.map": "/uideck/static/css/main.7dc3c5b5.chunk.css.map",
+    "static/js/2.f7d3cb28.chunk.js.LICENSE.txt": "/uideck/static/js/2.f7d3cb28.chunk.js.LICENSE.txt",
+    "static/media/LineIcons.css": "/uideck/static/media/LineIcons.fb16b8b0.ttf",
+    "static/media/call-to-action.f261f36f.png": "/uideck/static/media/call-to-action.f261f36f.png",
+    "static/media/header-shape.1c06358d.svg": "/uideck/static/media/header-shape.1c06358d.svg",
+    "static/media/logo.53dce2b8.svg": "/uideck/static/media/logo.53dce2b8.svg",
+    "static/media/logo.6ce24c58.svg": "/uideck/static/media/logo.6ce24c58.svg",
+    "static/media/services.d62fc154.png": "/uideck/static/media/services.d62fc154.png",
+    "static/media/style.css.7069f825.map": "/uideck/static/media/style.css.7069f825.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.152d7243.js",
+    "static/js/2.f7d3cb28.chunk.js",
+    "static/css/main.7dc3c5b5.chunk.css",
+    "static/js/main.560f3ea2.chunk.js"
+  ]
+}
